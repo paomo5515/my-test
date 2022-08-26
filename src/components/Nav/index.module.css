@@ -1,0 +1,10 @@
+.content {
+  display: flex;
+}
+.menu {
+  width: 280px;
+}
+.changeMenu {
+  flex: 1;
+  padding-left: 60px;
+}
